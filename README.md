@@ -1,16 +1,13 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=48&pause=1000&color=2C49F7&center=true&vCenter=true&width=1920&height=150&lines=Welcome+to+Brrrskuy+Github" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://x.com/akbarasifff">
+    <img src="https://img.shields.io/twitter/follow/akbarasifff">
+  </a>
+  <a href="https://t.me/skuycloud">
+    <img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Join @skuycloud&color=36393f&style=flat-square" alt="Discord">
+  </a>
+</p>
 
-<!--
-**Brrrskuy/Brrrskuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brrrskuy&color=brightgreen" alt="Profile Views">
+</p>
