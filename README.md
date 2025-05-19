@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/twitter/follow/brrrskuy">
   </a>
   <a href="https://t.me/skuycloud">
-    <img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Buy VPS @skuycloud&color=36393f&style=flat-square" alt="Discord">
+    <img src="https://img.shields.io/static/v1?logo=telegram&label=&message=Buy VPS @skuycloud&color=36393f&style=flat-square" alt="Telegram">
   </a>
 </p>
 
