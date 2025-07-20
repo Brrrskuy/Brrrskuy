@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/Follow-%20@brrrskuy-29A7DE?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge" />
 </a>
 
-  <a href="https://t.me/skuycloud" target="_blank">
-    <img src="https://img.shields.io/badge/Join-%20@skuycloud-29A7DE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=gray" alt="Telegram Badge" />
+  <a href="https://t.me/skuyvibes" target="_blank">
+    <img src="https://img.shields.io/badge/Join-%20@skuyvibes-29A7DE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=gray" alt="Telegram Badge" />
   </a>
 </p>
 
