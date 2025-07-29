@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<!-- GitHub Stats (optional) -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brrrskuy&show_icons=true&theme=radical&hide=contribs&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brrrskuy&layout=compact&theme=radical" height="150"/>
